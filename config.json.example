@@ -1,0 +1,10 @@
+{
+  "My home WiFi": {
+    "status_text": "WFH",
+    "status_emoji": ":house:"
+  },
+  "My office WiFi": {
+    "status_text": "In office",
+    "status_emoji": ":office:"
+  }
+}
